@@ -1,2 +1,2 @@
 console.log("sai");
-console
+console.log
